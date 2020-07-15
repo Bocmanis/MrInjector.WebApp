@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrInjector.WebApp", "MrInjector.WebApp.csproj", "{5F369AA0-0AF1-4C77-A324-8F2B0FF48078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F369AA0-0AF1-4C77-A324-8F2B0FF48078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F369AA0-0AF1-4C77-A324-8F2B0FF48078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F369AA0-0AF1-4C77-A324-8F2B0FF48078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F369AA0-0AF1-4C77-A324-8F2B0FF48078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B18A0F4-1C37-4DE3-8050-BCDBBDA3E10F}
+	EndGlobalSection
+EndGlobal
